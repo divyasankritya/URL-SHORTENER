@@ -61,7 +61,7 @@ URL-SHORTENER/
   }
   ```
 
-## Database Schema
+## Database Schema 
 
 The URL model includes:
 - `shortId`: Unique identifier for the short URL
